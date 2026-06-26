@@ -1,0 +1,6 @@
+*
+!.gitignore
+!Progress_Report/
+!Progress_Report/*
+!README.md
+!home_service.sql
