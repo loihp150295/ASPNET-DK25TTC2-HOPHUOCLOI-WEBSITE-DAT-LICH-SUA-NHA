@@ -1,6 +1,19 @@
 *
 !.gitignore
+
+# Progress Report
 !Progress_Report/
 !Progress_Report/*
+
+# README & SQL
 !README.md
 !home_service.sql
+
+# Source code
+!src/
+!src/**
+
+# Ignore build output & IDE files inside src
+src/**/bin/
+src/**/obj/
+src/**/.vs/
