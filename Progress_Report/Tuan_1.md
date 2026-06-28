@@ -6,7 +6,7 @@
 ---
 
 ### 1. Nội dung công việc
-* [cite_start]Xác định rõ ràng lý do chọn đề tài, mục tiêu nghiên cứu, đối tượng và phạm vi nghiên cứu của đồ án[cite: 71, 75, 80, 81].
+*Xác định rõ ràng lý do chọn đề tài, mục tiêu nghiên cứu, đối tượng và phạm vi nghiên cứu của đồ án.
 * Tập trung tìm hiểu tổng quan về framework ASP.NET MVC 5 và giao thức truyền tải siêu văn bản HTTP.
 * Nghiên cứu các ngôn ngữ bổ trợ front-end thiết yếu bao gồm HTML, CSS, JavaScript nhằm phục vụ thiết kế giao diện ứng dụng web.
 * Tìm hiểu và thử nghiệm các thư viện, framework bổ trợ giao diện phổ biến hiện nay như jQuery và Bootstrap.
