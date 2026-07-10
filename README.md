@@ -1,4 +1,4 @@
-# HomeFix — Dịch vụ sửa chữa nhà cửa
+# HomeFix — Dịch vụ đặt lịch sửa chữa nhà cửa
 
 Website quản lý đặt lịch dịch vụ sửa chữa nhà cửa tại Hà Nội. Khách hàng chọn dịch vụ, đặt lịch online. Quản trị viên quản lý đơn hàng và danh mục dịch vụ.
 
