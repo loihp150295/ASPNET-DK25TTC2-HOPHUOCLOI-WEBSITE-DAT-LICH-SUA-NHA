@@ -1,4 +1,4 @@
-# BÁO CÁO TIẾN ĐỘ ĐỒ ÁN - TUẦN 2
+# BÁO CÁO TIẾN ĐỘ ĐỒ ÁN - TUẦN 2.
 
 - **Khoảng thời gian:** 29/06/2026 - 05/07/2026
 - **Trọng tâm giai đoạn:** Phân tích thiết kế hệ thống và Cơ sở dữ liệu
