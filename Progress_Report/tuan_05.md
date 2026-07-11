@@ -20,4 +20,4 @@
 
 ### 4. Kết quả đạt được
 * Hệ thống chạy mượt mà, responsive tương thích tốt trên đa thiết bị (máy tính, điện thoại).
-* Hoàn thành file báo cáo đồ án tổng hợp được định dạng chuẩn chỉnh, sẵn sàng gửi Giảng viên hướng dẫn duyệt chấm điểm.
+* Hoàn thành file báo cáo đồ án tổng hợp được định dạng chuẩn chỉnh.
