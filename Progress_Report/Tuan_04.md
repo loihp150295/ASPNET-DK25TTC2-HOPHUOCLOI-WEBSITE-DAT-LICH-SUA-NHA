@@ -20,3 +20,4 @@
 ## 4. Kết quả đạt được
 * Hoàn thiện toàn vẹn tất cả các màn hình chức năng CRUD thuộc phân hệ quản trị của bộ phận Admin.
 * Tích hợp thành công cơ chế phân quyền bảo mật cơ bản giúp ngăn chặn việc truy cập bất hợp pháp vào các URL hệ thống.
+* Đồ án chạy tạm ổn
